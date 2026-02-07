@@ -35,13 +35,13 @@ https://stream-mixtape-geo.ntslive.net/mixtape32
 https://stream-mixtape-geo.ntslive.net/mixtape21
 #EXTINF:-1,(NTS) Feelings (soul)
 https://stream-mixtape-geo.ntslive.net/mixtape27
-#EXTINF:-1,(NTS) Low;key (soul)
+#EXTINF:-1,(NTS) Lowkey (soul)
 https://stream-mixtape-geo.ntslive.net/mixtape2
 #EXTINF:-1,SomaFM: Space Station Soma
 icyx://ice5.somafm.com/spacestation-128-mp3
 #EXTINF:-1,SomaFM: Groove Salad
 icyx://ice2.somafm.com/groovesalad-256-mp3
-#EXTINF:-1,(NTS) Pool;side (soul)
+#EXTINF:-1,(NTS) Poolside (soul)
 https://stream-mixtape-geo.ntslive.net/mixtape4
 #EXTINF:-1,(NTS) Memory Lane
 https://stream-mixtape-geo.ntslive.net/mixtape6
@@ -59,7 +59,7 @@ https://stream-mixtape-geo.ntslive.net/mixtape34
 https://stream-mixtape-geo.ntslive.net/mixtape26
 #EXTINF:-1,SomaFM: Boot Liquor: Americana Roots music for Cowhands,Cowpokes and Cowtippers
 icyx://ice2.somafm.com/bootliquor-320-mp3
-#EXTINF:-1,SomaFM: Bossa Beyond (Special): Silky;smooth,laid;back Brazilian;style rhythms of Bossa Nova,Samba and beyond
+#EXTINF:-1,SomaFM: Bossa Beyond (Special): Silkysmooth,laidback Brazilianstyle rhythms of Bossa Nova,Samba and beyond
 icyx://ice2.somafm.com/bossa-256-mp3
 #EXTINF:-1,SomaFM: Covers: Just covers. Songs you know by artists you don't. We've got you covered.
 icyx://ice4.somafm.com/covers-128-mp3
@@ -205,11 +205,11 @@ https://listen.radioking.com/radio/61201/stream/98566
 https://africaradio.ice.infomaniak.ch/abidjan128.mp3
 
 # South Africa
-#EXTINF:-1,Tuks FM (Pretoria) | University radio ; alternative and indie
+#EXTINF:-1,Tuks FM (Pretoria) | University radio; alternative and indie
 http://edge.iono.fm/xice/tuksfm_live_medium.aac
 #EXTINF:-1,KAYA FM 95.9 (Johannesburg) | African, jazz, and alternative
 http://edge.iono.fm/xhls/82_high.m3u8
-#EXTINF:-1,UbuntuFM | Eclectic ; afropop, folk, jazz, reggae, soul
+#EXTINF:-1,UbuntuFM | Eclectic; afropop, folk, jazz, reggae, soul
 https://streaming.coollective.nl:8443/UbuntuFM
 #EXTINF:-1,Fine Music Radio | Classical and jazz
 https://edge.iono.fm/xhls/fmr_live_high.m3u8
