@@ -71,149 +71,99 @@ icyx://ice4.somafm.com/digitalis-256-mp3
 icyx://ice2.somafm.com/vaporwaves-128-mp3
 #EXTINF:-1,Nightwave Plaza
 http://radio.plaza.one/mp3
-
-# === NEW ADDITIONS | Tested and Working February 2026 ===
-
-# United States
-#EXTINF:-1,KEXP (Seattle) | Music discovery and live sessions
+#EXTINF:-1,KEXP (Seattle)
 https://live-aacplus-64.kexp.org/kexp64.aac
-#EXTINF:-1,WFMU (Jersey City) | Freeform experimental radio
+#EXTINF:-1,WFMU (Jersey City)
 http://stream0.wfmu.org/freeform-128k
-#EXTINF:-1,Dublab (Los Angeles) | Electronic/experimental/ambient
+#EXTINF:-1,Dublab (Los Angeles)
 https://dublab.out.airtime.pro/dublab_a
-
-# France | Radio France (Public)
-#EXTINF:-1,FIP (Paris) | Eclectic jazz/world/electronica
+#EXTINF:-1,FIP (Paris)
 https://icecast.radiofrance.fr/fip-midfi.mp3
-#EXTINF:-1,France Musique | Classical and contemporary
+#EXTINF:-1,France Musique
 https://icecast.radiofrance.fr/francemusique-midfi.mp3
-#EXTINF:-1,France Culture | Arts and culture programming
+#EXTINF:-1,France Culture
 https://icecast.radiofrance.fr/franceculture-midfi.mp3
-
-# Spain
-#EXTINF:-1,Catalunya Radio | Catalan public radio
+#EXTINF:-1,Catalunya Radio
 https://directes-radio-int.3catdirectes.cat/live-content/catalunya-radio-hls/master.m3u8
-
-# UK
-#EXTINF:-1,Cambridge Radio | Community radio with diverse programming
+#EXTINF:-1,Cambridge Radio
 https://stream.cambridge105.co.uk/105
-#EXTINF:-1,Resonance FM (London) | Experimental arts radio
+#EXTINF:-1,Resonance FM (London)
 http://stream.resonance.fm:8000/resonance
-
-# Germany
-#EXTINF:-1,FSK Hamburg | Free radio collective (freeform)
+#EXTINF:-1,FSK Hamburg
 https://streaming.fueralle.org/fsk.mp3
-#EXTINF:-1,MDR KULTUR | Central German cultural radio
+#EXTINF:-1,MDR KULTUR
 https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
-
-# International/Eclectic
-#EXTINF:-1,Radio Paradise | Eclectic rock/world/electronica
+#EXTINF:-1,Radio Paradise
 http://stream.radioparadise.com/mp3-192
-
-# === NEW ADDITIONS | Session 2 | February 2026 ===
-
-# BBC (UK)
-#EXTINF:-1,BBC Radio 6 Music | Alternative and eclectic music
+#EXTINF:-1,BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8
-#EXTINF:-1,BBC World Service | News and global programming
+#EXTINF:-1,BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
-
-# United States
-#EXTINF:-1,KCRW (Los Angeles) | Live broadcast
+#EXTINF:-1,KCRW (Los Angeles)
 https://streams.kcrw.com/kcrw_aac
-#EXTINF:-1,KCRW Eclectic 24 | Music channel
+#EXTINF:-1,KCRW Eclectic 24
 https://streams.kcrw.com/e24_aac
-
-# UK Commercial/Community
-#EXTINF:-1,Jazz FM (UK) | Jazz and soul
+#EXTINF:-1,Jazz FM (UK)
 https://stream-al.hellorayo.co.uk/jazz.mp3
-#EXTINF:-1,Switch FM (London) | Urban and dance
+#EXTINF:-1,Switch FM (London)
 https://stream.switchfm.co.uk/listen/switchfm/switchfm.mp3
-#EXTINF:-1,Radio Skye (Scotland) | Community radio
+#EXTINF:-1,Radio Skye (Scotland)
 http://comet.shoutca.st:8338/live
-#EXTINF:-1,Vectis Radio (Isle of Wight) | Community radio
+#EXTINF:-1,Vectis Radio (Isle of Wight)
 http://stream.gointernet.co.uk:8004/live
-#EXTINF:-1,Noods Radio (Bristol) | Underground music
+#EXTINF:-1,Noods Radio (Bristol)
 https://noods-radio.radiocult.fm/stream
-#EXTINF:-1,Jazz London Radio | Jazz from London
+#EXTINF:-1,Jazz London Radio
 http://radio.canstream.co.uk:8075/live.mp3
-
-# Worldwide/International Online Radio
-#EXTINF:-1,Worldwide FM (Gilles Peterson) | Global music
+#EXTINF:-1,Worldwide FM (Gilles Peterson)
 https://worldwide-fm.radiocult.fm/stream
-#EXTINF:-1,The Lot Radio (Brooklyn) | Curated DJ sets
+#EXTINF:-1,The Lot Radio (Brooklyn)
 https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
-
-# France
-#EXTINF:-1,Radio Nova (Paris) | Eclectic music
+#EXTINF:-1,Radio Nova (Paris)
 https://novazz.ice.infomaniak.ch/novazz-128.mp3
-
-# Spain
-#EXTINF:-1,RNE Radio 3 (Spain) | Alternative and cultural
+#EXTINF:-1,RNE Radio 3 (Spain)
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
-#EXTINF:-1,RAC1 (Catalan) | Catalan talk and music
+#EXTINF:-1,RAC1 (Catalan)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
-
-# Hungary
-#EXTINF:-1,Tilos Radio (Budapest) | Freeform independent radio
+#EXTINF:-1,Tilos Radio (Budapest)
 https://stream.tilos.hu/tilos_128.mp3
-
-# South America
-#EXTINF:-1,Radio Nacional Argentina | Public radio
+#EXTINF:-1,Radio Nacional Argentina
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
-#EXTINF:-1,Radio Universidad de Chile | University radio
+#EXTINF:-1,Radio Universidad de Chile
 https://sonic-us.arkeo.cl/8186/stream
-#EXTINF:-1,Radio Eldorado FM (Sao Paulo) | Brazilian culture
+#EXTINF:-1,Radio Eldorado FM (Sao Paulo)
 https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8
-
-# === NEW ADDITIONS | Session 3 | February 2026 | Africa & South America ===
-
-# Peru
-#EXTINF:-1,Doble Nueve Live (Lima) | Alternative and indie rock
+#EXTINF:-1,Doble Nueve Live (Lima)
 https://conectperu.com:7000/stream?icy=http
-#EXTINF:-1,Filarmonía 102.7 FM (Lima) | Classical, cultural, and world music
+#EXTINF:-1,Filarmonía 102.7 FM (Lima)
 https://c22.radioboss.fm:18100/live
-#EXTINF:-1,Radio 1550 (Huancayo) | Alternative, electronic, and Andean music
+#EXTINF:-1,Radio 1550 (Huancayo)
 https://streaming.virtugo.digital:8002/stream
-
-# Bolivia
-#EXTINF:-1,Radio Estrella 93.1 FM (Cochabamba) | Alternative rock and Latin
+#EXTINF:-1,Radio Estrella 93.1 FM (Cochabamba)
 https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3
-#EXTINF:-1,Quechua FM (Cochabamba) | Folk, folklore, and indigenous culture
+#EXTINF:-1,Quechua FM (Cochabamba)
 https://stream-174.zeno.fm/e78z1h3drd0uv
-#EXTINF:-1,Radio Ritmo 97.3 FM (Cochabamba) | Rock, folklore, and Latin
+#EXTINF:-1,Radio Ritmo 97.3 FM (Cochabamba)
 https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac
-
-# Senegal
-#EXTINF:-1,Dakar Musique | African music, mbalax, and reggae
+#EXTINF:-1,Dakar Musique
 http://listen.senemultimedia.net:8090/stream
-#EXTINF:-1,Radio Thiossane (Dakar) | Traditional African and mbalax
+#EXTINF:-1,Radio Thiossane (Dakar)
 https://listen.senemultimedia.net:8112/stream
-
-# Mali
-#EXTINF:-1,Radio Kledu 101.2 (Bamako) | African music and culture
+#EXTINF:-1,Radio Kledu 101.2 (Bamako)
 https://stream.zeno.fm/f38bxpt3v2quv
-
-# Angola
-#EXTINF:-1,Powermix FM | Electronic, trance, house, and eurodance
+#EXTINF:-1,Powermix FM
 https://cast.iplayradio.net/listen/powermixfm/stream
-
-# Ivory Coast
-#EXTINF:-1,Radio Jam (Abidjan) | African folk and traditional music
+#EXTINF:-1,Radio Jam (Abidjan)
 https://listen.radioking.com/radio/61201/stream/98566
-#EXTINF:-1,Africa Radio (Abidjan) | African pop and world music
+#EXTINF:-1,Africa Radio (Abidjan)
 https://africaradio.ice.infomaniak.ch/abidjan128.mp3
-
-# South Africa
-#EXTINF:-1,Tuks FM (Pretoria) | University radio; alternative and indie
+#EXTINF:-1,Tuks FM (Pretoria)
 http://edge.iono.fm/xice/tuksfm_live_medium.aac
-#EXTINF:-1,KAYA FM 95.9 (Johannesburg) | African, jazz, and alternative
+#EXTINF:-1,KAYA FM 95.9 (Johannesburg)
 http://edge.iono.fm/xhls/82_high.m3u8
-#EXTINF:-1,UbuntuFM | Eclectic; afropop, folk, jazz, reggae, soul
+#EXTINF:-1,UbuntuFM
 https://streaming.coollective.nl:8443/UbuntuFM
-#EXTINF:-1,Fine Music Radio | Classical and jazz
+#EXTINF:-1,Fine Music Radio
 https://edge.iono.fm/xhls/fmr_live_high.m3u8
-
-# Congo (DRC)
-#EXTINF:-1,Top Congo FM 88.4 (Kinshasa) | African soukous and Congolese rumba
+#EXTINF:-1,Top Congo FM 88.4 (Kinshasa)
 http://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3
